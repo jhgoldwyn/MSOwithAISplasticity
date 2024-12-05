@@ -120,7 +120,7 @@ def ANmodel(nPulse,Delta,A,fMod):
     # loop across current pulses
     V = np.zeros(nPulse)
     spikeTimes = []
-    r = sp.random.rand(nPulse) # draw random numbers for stochastic spiking
+    r = np.random.rand(nPulse) # draw random numbers for stochastic spiking
     Voffset = 0
     tOffset = delta-Delta
     tSpike = -999. # initialize time of previous spike to distant past
