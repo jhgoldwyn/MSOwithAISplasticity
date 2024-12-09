@@ -7,7 +7,7 @@ This code accompanies the manuscript:
 Axon initial segment plasticity caused by auditory deprivation degrades time difference sensitivity in a model of neural responses to cochlear implants
 
 by
-Ge Jing (=), Sylvia Xi (=), Ivan Fransazov, Joshua H. Goldwyn
+Anna Jing (=), Sylvia Xi (=), Ivan Fransazov, Joshua H. Goldwyn
 
 Swarthmore College
 
